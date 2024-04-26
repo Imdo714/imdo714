@@ -23,9 +23,9 @@
 
 <br>
 <div style="display: flex; justify-content: center;" align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imdo714&show_icons=true&bg_color=00000000)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdo714&layout=compact)
+
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imdo714&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdo714&layout=compact&theme=tokyonight)
   
 </div>
 
