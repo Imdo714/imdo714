@@ -21,6 +21,10 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
+<div style="display: flex; justify-content: center;" align="center">
+  https://absorbing-supernova-89c.notion.site/49453877e92e4692b9a7e2fab4cf151a
+</div>
+
 <br>
 <div style="display: flex; justify-content: center;" align="center">
 
