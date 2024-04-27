@@ -20,8 +20,9 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
-
+<br>
 <div style="display: flex; justify-content: center;" align="center">
+  ⬇️⬇️⬇️⬇️⬇️⬇️⬇️ 개발자 링크 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️ <br>
   https://absorbing-supernova-89c.notion.site/49453877e92e4692b9a7e2fab4cf151a
 </div>
 
